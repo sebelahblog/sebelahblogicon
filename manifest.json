@@ -1,0 +1,38 @@
+{
+  "name": "sebelahblog.com",
+  "short_name": "SebelahBlog",
+  "start_url": "https://www.sebelahblog.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#dc38cb",
+  "description": "Tips dan Trik, Informasi Terbaru, Kesehatan, Kejadian Unik & Aneh, dan Tutorial Blogging.",
+  "icons": [{
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-hchGsk8equU/Xpc0lepYPJI/AAAAAAAAAdo/IvsWPJWGLmg6wyWJvRCB1MbGgNbqnaJAgCK4BGAYYCw/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
